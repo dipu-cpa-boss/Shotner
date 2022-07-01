@@ -1,11 +1,9 @@
-# <img align="left" alt="Twitter" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Snaplink" width="40px" src="https://snaplink.tk/uploads/brand/VD8YWe20BkVwr9ONiDMthi87jdmJcRYBlp7Cy4pG.png" draggable="false" /> SnapLink ([Click to try 🚀](https://snaplink.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+SnapLink🔗 - Shorten your links🔥 and share them with friends✨
 
-
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🔗](https://github.com/linkspreed/SnapLink/blob/main/changelog.md)** **Check out the full SnapLink changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/SnapLink/blob/main/Special_Works.md)** **Take a look at what changes we are doing to SnapLink besides development**
 
 
 <div align="center">
