@@ -1,4 +1,7 @@
 # 22.07.2022
+ - We released a new update (version 4.6.0) for SnapLink.
+
+# 22.07.2022
  - We will release a new update (version 4.6.0).
 
 # 01.07.2022
