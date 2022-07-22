@@ -1,3 +1,9 @@
+# 4.6.0 — 22 July 2022
+ - Improved adding new custom Domains process: URL protocol is no longer required
+ - Fixed an issue preventing shortening Deep Links when Google Safe Browsing was enabled
+ - Fixed the Webhook fields not being saved
+ - Other minor improvements
+
 # 4.5.0 — 02 July 2022
  - Added new payment gateway: Paystack (checkout using a credit card)
  - Added new payment gateway: Razorpay (checkout using a credit card)
