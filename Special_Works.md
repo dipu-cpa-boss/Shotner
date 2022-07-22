@@ -1,3 +1,6 @@
+# 22.07.2022
+ - We will release a new update (version 4.6.0).
+
 # 01.07.2022
  - We are working on a new version (4.5.0) which will contain many new and cool changes.
 
