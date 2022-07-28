@@ -1,3 +1,8 @@
+# 4.7.0 — 28 July 2022
+ - Improved the cron jobs system
+ - Fixed the copy link button not working
+ - Other minor improvements
+
 # 4.6.0 — 22 July 2022
  - Improved adding new custom Domains process: URL protocol is no longer required
  - Fixed an issue preventing shortening Deep Links when Google Safe Browsing was enabled
