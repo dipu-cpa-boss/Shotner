@@ -1,4 +1,4 @@
-# <img align="left" alt="Snaplink" width="100px" src="https://snaplink.tk/uploads/brand/VD8YWe20BkVwr9ONiDMthi87jdmJcRYBlp7Cy4pG.png" draggable="false" /> SnapLink ([Click to try 🚀](https://snaplink.tk/))
+# <img align="left" alt="Snaplink" width="100px" src="https://user-images.githubusercontent.com/102324985/197024499-b937a1ac-3c67-4318-9a75-fd0478920dee.png" draggable="false" /> SnapLink ([Click to try 🚀](https://snaplink.tk/))
 
 SnapLink🔗 - Shorten your links🔥 and share them with friends✨
 
