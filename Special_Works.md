@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement SnapLink)
+- The code for **SnapLink** v4.8.0 is ready for launch.
+
+### 20.10.2022 (announcement SnapLink)
 - We are proud to finally be able to announce that the development work on version 4.8.0 for **SnapLink** has been successfully completed.
 
 # 28.07.2022
