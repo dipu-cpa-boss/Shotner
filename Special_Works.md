@@ -1,4 +1,7 @@
 ### 20.10.2022 (announcement SnapLink)
+- The servers are ready for the launch of v4.8.0.
+
+### 20.10.2022 (announcement SnapLink)
 - The code for **SnapLink** v4.8.0 is ready for launch.
 
 ### 20.10.2022 (announcement SnapLink)
