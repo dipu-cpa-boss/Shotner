@@ -1,4 +1,8 @@
 ### 04.01.2023 (announcement SnapLink)
+- https://github.com/linkspreed/SnapLink/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 04.01.2023 (announcement SnapLink)
 - The launch of version 4.9.0 of **SnapLink** was successful! 🥳
 - The new update is live now :)
 - https://snaplink.tk 🔗
