@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement SnapLink)
+- The code is now ready for the launch of version 4.9.0 for **SnapLink**.
+
+### 04.01.2023 (announcement SnapLink)
 -  **SnapLink** gets a big update today - we are going to launch v4.9.0. 😍
 
 ### 04.01.2023 (announcement SnapLink)
