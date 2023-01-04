@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement SnapLink)
+-  **SnapLink** gets a big update today - we are going to launch v4.9.0. 😍
+
+### 04.01.2023 (announcement SnapLink)
 - We're working on a new update for **SnapLink**!
 
 ### 20.10.2022 (announcement SnapLink)
