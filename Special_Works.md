@@ -1,3 +1,6 @@
+### 04.01.2023 (announcement SnapLink)
+- We're working on a new update for **SnapLink**!
+
 ### 20.10.2022 (announcement SnapLink)
 - We are now beginning the launch of version 4.8.
 
