@@ -1,3 +1,6 @@
+### 02.02.2023 (announcement SnapLink)
+-  **SnapLink** gets a big update today - we are going to launch v5.0. 😍
+
 ### 04.01.2023 (announcement SnapLink)
 - https://github.com/linkspreed/SnapLink/blob/main/changelog.md
 - The entire changelog is now available on Github.
