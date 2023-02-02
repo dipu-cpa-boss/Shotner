@@ -1,4 +1,9 @@
 ### 02.02.2023 (announcement SnapLink)
+- The launch of version 5.0 of **SnapLink** was successful! 🥳
+- The new update is live now :)
+- https://snaplink.tk 🔗
+
+### 02.02.2023 (announcement SnapLink)
 - We are now starting the launch of v5.0.
 
 ### 02.02.2023 (announcement SnapLink)
