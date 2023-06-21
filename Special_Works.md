@@ -1,3 +1,6 @@
+### 21.06.2023 (announcement Snaplink)
+- 🎉🌍 Our Snaplink platform is now connected with the Google Safe Browsing API, making it even safer for our users! This integration provides real-time protection against dangerous websites and phishing attacks. Have you noticed a difference in your browsing experience with Snaplink? #onlinesafety #cybersecurity 🤔
+
 ### 02.02.2023 (announcement SnapLink)
 - https://github.com/linkspreed/SnapLink/blob/main/changelog.md
 - The entire changelog is now available on Github.
