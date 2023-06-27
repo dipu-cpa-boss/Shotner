@@ -1,3 +1,6 @@
+### 27.06.2023 (announcement Snaplink)
+- 🎉 Great news! We've just added Snaplink to our Subdomain system 🔗 https://snaplink.tk now redirects you to https://snaplink.linkspreed.com. Don't worry, everything will stay the same for you and you can keep using the platform as usual 🤝 Do you have any questions? #Snaplink #Subdomain #Linkspreed
+
 ### 21.06.2023 (announcement Snaplink)
 - 🎉🌍 Our Snaplink platform is now connected with the Google Safe Browsing API, making it even safer for our users! This integration provides real-time protection against dangerous websites and phishing attacks. Have you noticed a difference in your browsing experience with Snaplink? #onlinesafety #cybersecurity 🤔
 
